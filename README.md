@@ -4,4 +4,4 @@ This program uses the Robot Operating System to direct a Turtlebot to drive into
 
 Bankshot.py does something similar, but in this case the ball will be placed beside (not in front of) the goal and near a wall. The program will find an angle to instead bounce the ball off of the wall so that it banks through the goal. 
 
-See the project writeup for more details about how it works. 
+See the project writeup for more details about how it works, and the videos folder to see it in action!
